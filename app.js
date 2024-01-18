@@ -11,7 +11,7 @@ const body = document.querySelector('body')
 
 // API
 const api = {
-  key: '467143a2e9e1de3de89328bf80dd0625',
+  key: '{Enter your API Key}',
   base: 'https://api.openweathermap.org/data/2.5/',
 }
 
